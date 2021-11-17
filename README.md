@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<head>
+  <meta name="google-site-verification" content="9p_CRKpa1DgYCsFJehgGqTiCKE5SLJqrh9USILjoGdw" />
+</head>
 <!--
 **cage-challenge/cage-challenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<meta name="google-site-verification" content="9p_CRKpa1DgYCsFJehgGqTiCKE5SLJqrh9USILjoGdw" />
