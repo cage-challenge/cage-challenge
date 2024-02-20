@@ -24,7 +24,7 @@ Congratulations to Team CardiffUni for winning CAGE Challenge 2!
 ## TTCP CAGE Challenge 3
 The [third CAGE Challenge](https://github.com/cage-challenge/cage-challenge-3) was held from September 2022 to February 2023.
 
-Thankyou to all who participated.
+Thank you to all who participated.
 
 ## TTCP CAGE Challenge 4
 The [fourth CAGE Challenge](https://github.com/cage-challenge/cage-challenge-4) is open now! Submit your solution at [Codalab](https://codalab.lisn.upsaclay.fr/competitions/17672).
