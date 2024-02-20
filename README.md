@@ -20,7 +20,11 @@ Congratulations to Team CardiffUni for winning CAGE Challenge 2!
 * [Mindrake](https://github.com/alan-turing-institute/cage-challenge-2-public)
 
 ## TTCP CAGE Challenge 3
-The [third CAGE Challenge](https://github.com/cage-challenge/cage-challenge-3) is out now!
+The [third CAGE Challenge](https://github.com/cage-challenge/cage-challenge-3) was held from September 2022 to February 2023.
+Thankyou to all who participated.
+
+## TTCP CAGE Challenge 4
+The [fourth CAGE Challenge](https://github.com/cage-challenge/cage-challenge-4) is open now!
 
 # Contact
 Contact us at cage.aco.challenge@gmail.com
