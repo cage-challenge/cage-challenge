@@ -3,6 +3,7 @@ The TTCP CAGE Challenges are a series of cybersecurity competitions designed to 
 
 ## TTCP CAGE Challenge 1
 The [first CAGE Challenge](https://github.com/cage-challenge/cage-challenge-1) was held from August 2021 to February 2022.
+
 Congratulations to Team Mindrake for winning CAGE Challenge 1!
 
 ### Open Source Submissions:
@@ -13,6 +14,7 @@ Congratulations to Team Mindrake for winning CAGE Challenge 1!
 
 ## TTCP CAGE Challenge 2
 The [second CAGE Challenge](https://github.com/cage-challenge/cage-challenge-2) was held from April to July 2022.
+
 Congratulations to Team CardiffUni for winning CAGE Challenge 2!
 
 ### Open Source Submissions:
@@ -21,10 +23,11 @@ Congratulations to Team CardiffUni for winning CAGE Challenge 2!
 
 ## TTCP CAGE Challenge 3
 The [third CAGE Challenge](https://github.com/cage-challenge/cage-challenge-3) was held from September 2022 to February 2023.
+
 Thankyou to all who participated.
 
 ## TTCP CAGE Challenge 4
-The [fourth CAGE Challenge](https://github.com/cage-challenge/cage-challenge-4) is open now!
+The [fourth CAGE Challenge](https://github.com/cage-challenge/cage-challenge-4) is open now! Submit your solution at [Codalabs](https://codalab.lisn.upsaclay.fr/competitions/17672).
 
 # Contact
 Contact us at cage.aco.challenge@gmail.com
