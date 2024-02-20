@@ -27,7 +27,7 @@ The [third CAGE Challenge](https://github.com/cage-challenge/cage-challenge-3) w
 Thankyou to all who participated.
 
 ## TTCP CAGE Challenge 4
-The [fourth CAGE Challenge](https://github.com/cage-challenge/cage-challenge-4) is open now! Submit your solution at [Codalabs](https://codalab.lisn.upsaclay.fr/competitions/17672).
+The [fourth CAGE Challenge](https://github.com/cage-challenge/cage-challenge-4) is open now! Submit your solution at [Codalab](https://codalab.lisn.upsaclay.fr/competitions/17672).
 
 # Contact
 Contact us at cage.aco.challenge@gmail.com
